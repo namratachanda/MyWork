@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+.parent{
+    background-color: white;
+}
+.child{
+    background-color: red;
+}
